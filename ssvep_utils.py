@@ -7,7 +7,6 @@ import pandas as pd
 import warnings
 warnings.filterwarnings('ignore')
 
-import numpy as np
 from scipy.signal import butter, filtfilt
 
 from keras.models import Sequential
