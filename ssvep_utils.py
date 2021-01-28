@@ -3,6 +3,7 @@ Utilities for CNN based SSVEP Classification
 """
 import math
 import numpy as np
+import pandas as pd
 import warnings
 warnings.filterwarnings('ignore')
 
